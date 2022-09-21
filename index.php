@@ -7,3 +7,6 @@
 
 // https://www.sitepoint.com/php-rabbitmq-advanced-examples/
 // https://www.sitepoint.com/use-rabbitmq-php/
+
+// https://github.com/php-amqplib/php-amqplib
+// http://php-amqplib.github.io/php-amqplib/namespaces/phpamqplib-exchange.html
